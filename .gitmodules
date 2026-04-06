@@ -1,3 +1,6 @@
 [submodule "external/extensions/emergent_ops.classic_boids"]
 	path = external/extensions/emergent_ops.classic_boids
 	url = git@github.com:keithSchumacher/emergent_ops.classic_boids.git
+[submodule "external/apps/emergent_ops.simple_kit_based_editor"]
+	path = external/apps/emergent_ops.simple_kit_based_editor
+	url = git@github.com:keithSchumacher/emergent_ops.simple_kit_based_editor.git

@@ -4,3 +4,6 @@
 [submodule "external/apps/emergent_ops.simple_kit_based_editor"]
 	path = external/apps/emergent_ops.simple_kit_based_editor
 	url = git@github.com:keithSchumacher/emergent_ops.simple_kit_based_editor.git
+[submodule "external/apps/autonomy.sdg_editor"]
+	path = external/apps/autonomy.sdg_editor
+	url = git@github.com:keithSchumacher/autonomy.sdg_editor.git
